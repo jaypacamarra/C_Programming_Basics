@@ -2,3 +2,5 @@
 
 This repository contains basic C coding concepts \
 The IDE that will be used is Visual Studio Code
+
+Jay was here
