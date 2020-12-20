@@ -7,5 +7,7 @@ int main(){
     scanf("%[^\n]s",city);
     puts(city);
 
+    printf("Hello world test test 123 \n"); 
+
     return 0;
 }
