@@ -1,0 +1,389 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+APR	examples/ch10/fig10_18.c	/^   JAN = 1, FEB, MAR, APR, MAY, JUN, JUL, AUG, SEP, OCT, NOV, DEC$/;"	e	enum:months	file:
+ARRAY_SIZE	examples/ch07/fig07_20.c	4;"	d	file:
+AUG	examples/ch10/fig10_18.c	/^   JAN = 1, FEB, MAR, APR, MAY, JUN, JUL, AUG, SEP, OCT, NOV, DEC$/;"	e	enum:months	file:
+CARDS	examples/ch07/fig07_24.c	9;"	d	file:
+CARDS	examples/ch10/fig10_03.c	7;"	d	file:
+CARDS	examples/ch10/fig10_16.c	4;"	d	file:
+CONTINUE	examples/ch05/fig05_14.c	/^enum Status { CONTINUE, WON, LOST };$/;"	e	enum:Status	file:
+Card	examples/ch10/fig10_03.c	/^typedef struct card Card; \/\/ new type name for struct card   $/;"	t	typeref:struct:card	file:
+Card	examples/ch10/fig10_16.c	/^typedef struct bitCard Card; \/\/ new type name for struct bitCard   $/;"	t	typeref:struct:bitCard	file:
+DEC	examples/ch10/fig10_18.c	/^   JAN = 1, FEB, MAR, APR, MAY, JUN, JUL, AUG, SEP, OCT, NOV, DEC$/;"	e	enum:months	file:
+EXAMS	examples/ch06/fig06_22.c	5;"	d	file:
+FACES	examples/ch07/fig07_24.c	8;"	d	file:
+FACES	examples/ch10/fig10_03.c	8;"	d	file:
+FEB	examples/ch10/fig10_18.c	/^   JAN = 1, FEB, MAR, APR, MAY, JUN, JUL, AUG, SEP, OCT, NOV, DEC$/;"	e	enum:months	file:
+FREQUENCY_SIZE	examples/ch06/fig06_07.c	5;"	d	file:
+JAN	examples/ch10/fig10_18.c	/^   JAN = 1, FEB, MAR, APR, MAY, JUN, JUL, AUG, SEP, OCT, NOV, DEC$/;"	e	enum:months	file:
+JUL	examples/ch10/fig10_18.c	/^   JAN = 1, FEB, MAR, APR, MAY, JUN, JUL, AUG, SEP, OCT, NOV, DEC$/;"	e	enum:months	file:
+JUN	examples/ch10/fig10_18.c	/^   JAN = 1, FEB, MAR, APR, MAY, JUN, JUL, AUG, SEP, OCT, NOV, DEC$/;"	e	enum:months	file:
+LOST	examples/ch05/fig05_14.c	/^enum Status { CONTINUE, WON, LOST };$/;"	e	enum:Status	file:
+ListNode	examples/ch12/fig12_03.c	/^typedef struct listNode ListNode; \/\/ synonym for struct listNode$/;"	t	typeref:struct:listNode	file:
+ListNodePtr	examples/ch12/fig12_03.c	/^typedef ListNode *ListNodePtr; \/\/ synonym for ListNode*$/;"	t	file:
+MAR	examples/ch10/fig10_18.c	/^   JAN = 1, FEB, MAR, APR, MAY, JUN, JUL, AUG, SEP, OCT, NOV, DEC$/;"	e	enum:months	file:
+MAY	examples/ch10/fig10_18.c	/^   JAN = 1, FEB, MAR, APR, MAY, JUN, JUL, AUG, SEP, OCT, NOV, DEC$/;"	e	enum:months	file:
+NOV	examples/ch10/fig10_18.c	/^   JAN = 1, FEB, MAR, APR, MAY, JUN, JUL, AUG, SEP, OCT, NOV, DEC$/;"	e	enum:months	file:
+NUMBER_OF_THREADS	examples/appE/ThreadedFibonacci.c	7;"	d	file:
+OCT	examples/ch10/fig10_18.c	/^   JAN = 1, FEB, MAR, APR, MAY, JUN, JUL, AUG, SEP, OCT, NOV, DEC$/;"	e	enum:months	file:
+QueueNode	examples/ch12/fig12_13.c	/^typedef struct queueNode QueueNode;$/;"	t	typeref:struct:queueNode	file:
+QueueNodePtr	examples/ch12/fig12_13.c	/^typedef QueueNode *QueueNodePtr;$/;"	t	file:
+RESPONSES_SIZE	examples/ch06/fig06_07.c	4;"	d	file:
+SEP	examples/ch10/fig10_18.c	/^   JAN = 1, FEB, MAR, APR, MAY, JUN, JUL, AUG, SEP, OCT, NOV, DEC$/;"	e	enum:months	file:
+SIZE	examples/appD/figD_01.c	3;"	d	file:
+SIZE	examples/appD/figD_02.c	3;"	d	file:
+SIZE	examples/appD/figD_03.c	3;"	d	file:
+SIZE	examples/ch06/fig06_05.c	4;"	d	file:
+SIZE	examples/ch06/fig06_06.c	4;"	d	file:
+SIZE	examples/ch06/fig06_08.c	4;"	d	file:
+SIZE	examples/ch06/fig06_09.c	6;"	d	file:
+SIZE	examples/ch06/fig06_10.c	4;"	d	file:
+SIZE	examples/ch06/fig06_13.c	4;"	d	file:
+SIZE	examples/ch06/fig06_15.c	4;"	d	file:
+SIZE	examples/ch06/fig06_16.c	5;"	d	file:
+SIZE	examples/ch06/fig06_18.c	4;"	d	file:
+SIZE	examples/ch06/fig06_19.c	4;"	d	file:
+SIZE	examples/ch07/fig07_15.c	5;"	d	file:
+SIZE	examples/ch07/fig07_16.c	5;"	d	file:
+SIZE	examples/ch07/fig07_21.c	4;"	d	file:
+SIZE	examples/ch07/fig07_26.c	4;"	d	file:
+SIZE	examples/ch08/fig08_10.c	4;"	d	file:
+SIZE	examples/ch08/fig08_11.c	4;"	d	file:
+SIZE	examples/ch08/fig08_12.c	4;"	d	file:
+SIZE1	examples/ch08/fig08_15.c	5;"	d	file:
+SIZE2	examples/ch08/fig08_15.c	6;"	d	file:
+STUDENTS	examples/ch06/fig06_22.c	4;"	d	file:
+SUITS	examples/ch07/fig07_24.c	7;"	d	file:
+StackNode	examples/ch12/fig12_08.c	/^typedef struct stackNode StackNode; \/\/ synonym for struct stackNode$/;"	t	typeref:struct:stackNode	file:
+StackNodePtr	examples/ch12/fig12_08.c	/^typedef StackNode *StackNodePtr; \/\/ synonym for StackNode*$/;"	t	file:
+Status	examples/ch05/fig05_14.c	/^enum Status { CONTINUE, WON, LOST };$/;"	g	file:
+ThreadData	examples/appE/ThreadedFibonacci.c	/^typedef struct ThreadData {$/;"	s	file:
+ThreadData	examples/appE/ThreadedFibonacci.c	/^} ThreadData; \/\/ end struct ThreadData$/;"	t	typeref:struct:ThreadData	file:
+TreeNode	examples/ch12/fig12_19.c	/^typedef struct treeNode TreeNode; \/\/ synonym for struct treeNode$/;"	t	typeref:struct:treeNode	file:
+TreeNodePtr	examples/ch12/fig12_19.c	/^typedef TreeNode *TreeNodePtr; \/\/ synonym for TreeNode*$/;"	t	file:
+WON	examples/ch05/fig05_14.c	/^enum Status { CONTINUE, WON, LOST };$/;"	e	enum:Status	file:
+acctNum	examples/ch11/fig11_10.c	/^   unsigned int acctNum; \/\/ account number$/;"	m	struct:clientData	file:
+acctNum	examples/ch11/fig11_11.c	/^   unsigned int acctNum; \/\/ account number$/;"	m	struct:clientData	file:
+acctNum	examples/ch11/fig11_14.c	/^   unsigned int acctNum; \/\/ account number     $/;"	m	struct:clientData	file:
+acctNum	examples/ch11/fig11_15.c	/^   unsigned int acctNum; \/\/ account number$/;"	m	struct:clientData	file:
+add3Num	Functions.c	/^void add3Num(int num1, int num2, int num3)$/;"	f
+ascending	examples/ch07/fig07_26.c	/^int ascending( int a, int b )                                  $/;"	f
+automaticArrayInit	examples/ch06/fig06_11.c	/^void automaticArrayInit( void )$/;"	f
+average	examples/ch06/fig06_22.c	/^double average( const int setOfGrades[], size_t tests )      $/;"	f
+average	examples/ch14/fig14_02.c	/^double average( int i, ... )$/;"	f
+balance	examples/ch11/fig11_10.c	/^   double balance; \/\/ account balance      $/;"	m	struct:clientData	file:
+balance	examples/ch11/fig11_11.c	/^   double balance; \/\/ account balance   $/;"	m	struct:clientData	file:
+balance	examples/ch11/fig11_14.c	/^   double balance; \/\/ account balance            $/;"	m	struct:clientData	file:
+balance	examples/ch11/fig11_15.c	/^   double balance; \/\/ account balance            $/;"	m	struct:clientData	file:
+binarySearch	examples/ch06/fig06_19.c	/^size_t binarySearch(const int b[], int searchKey, size_t low, size_t high)$/;"	f
+bitCard	examples/ch10/fig10_16.c	/^struct bitCard {                                  $/;"	s	file:
+bubble	examples/ch07/fig07_26.c	/^void bubble( int work[], size_t size, int (*compare)( int a, int b ) )$/;"	f
+bubbleSort	examples/ch06/fig06_16.c	/^void bubbleSort( unsigned int a[] )$/;"	f
+bubbleSort	examples/ch07/fig07_15.c	/^void bubbleSort( int * const array, size_t size )$/;"	f
+card	examples/ch10/fig10_02.c	/^struct card {                           $/;"	s	file:
+card	examples/ch10/fig10_03.c	/^struct card {                                 $/;"	s	file:
+clientData	examples/ch11/fig11_10.c	/^struct clientData {                              $/;"	s	file:
+clientData	examples/ch11/fig11_11.c	/^struct clientData {                              $/;"	s	file:
+clientData	examples/ch11/fig11_14.c	/^struct clientData {                              $/;"	s	file:
+clientData	examples/ch11/fig11_15.c	/^struct clientData {                              $/;"	s	file:
+color	examples/ch10/fig10_16.c	/^   unsigned int color : 1; \/\/ 1 bit; 0-1          $/;"	m	struct:bitCard	file:
+convertToUppercase	examples/ch07/fig07_10.c	/^void convertToUppercase( char *sPtr )$/;"	f
+copy1	examples/ch07/fig07_21.c	/^void copy1( char * const s1, const char * const s2 )$/;"	f
+copy2	examples/ch07/fig07_21.c	/^void copy2( char *s1, const char *s2 )$/;"	f
+cubeByReference	examples/ch07/fig07_07.c	/^void cubeByReference( int *nPtr )                              $/;"	f
+cubeByValue	examples/ch07/fig07_06.c	/^int cubeByValue( int n )                                            $/;"	f
+data	examples/ch12/fig12_03.c	/^   char data; \/\/ each listNode contains a character $/;"	m	struct:listNode	file:
+data	examples/ch12/fig12_08.c	/^   int data; \/\/ define data as an int             $/;"	m	struct:stackNode	file:
+data	examples/ch12/fig12_13.c	/^   char data; \/\/ define data as a char            $/;"	m	struct:queueNode	file:
+data	examples/ch12/fig12_19.c	/^   int data; \/\/ node value                               $/;"	m	struct:treeNode	file:
+deal	examples/ch07/fig07_24.c	/^void deal( unsigned int wDeck[][ FACES ], const char *wFace[],$/;"	f
+deal	examples/ch10/fig10_03.c	/^void deal( const Card * const wDeck )$/;"	f
+deal	examples/ch10/fig10_16.c	/^void deal( const Card * const wDeck )$/;"	f
+delete	examples/ch12/fig12_03.c	/^char delete( ListNodePtr *sPtr, char value )$/;"	f
+deleteRecord	examples/ch11/fig11_15.c	/^void deleteRecord( FILE *fPtr )$/;"	f
+demoImplicitInt	examples/appE/figE_08.c	/^int demoImplicitInt( x )$/;"	f
+dequeue	examples/ch12/fig12_13.c	/^char dequeue( QueueNodePtr *headPtr, QueueNodePtr *tailPtr )$/;"	f
+descending	examples/ch07/fig07_26.c	/^int descending( int a, int b )                                 $/;"	f
+displayBits	examples/ch10/fig10_07.c	/^void displayBits( unsigned int value )$/;"	f
+displayBits	examples/ch10/fig10_09.c	/^void displayBits( unsigned int value )$/;"	f
+displayBits	examples/ch10/fig10_13.c	/^void displayBits( unsigned int value )$/;"	f
+displayElements	examples/appD/figD_03.c	/^void displayElements( int array[], int length )$/;"	f
+displaySubArray	examples/appD/figD_03.c	/^void displaySubArray( int array[], int left, int right )$/;"	f
+endTime	examples/appE/ThreadedFibonacci.c	/^   time_t endTime; \/\/ time thread finishes processing$/;"	m	struct:ThreadData	file:
+enqueue	examples/ch12/fig12_13.c	/^void enqueue( QueueNodePtr *headPtr, QueueNodePtr *tailPtr, $/;"	f
+enterChoice	examples/ch11/fig11_15.c	/^unsigned int enterChoice( void )$/;"	f
+f	examples/ch07/fig07_12.c	/^void f( const int *xPtr )$/;"	f
+face	examples/ch10/fig10_02.c	/^   char *face; \/\/ define pointer face   $/;"	m	struct:card	file:
+face	examples/ch10/fig10_03.c	/^   const char *face; \/\/ define pointer face   $/;"	m	struct:card	file:
+face	examples/ch10/fig10_16.c	/^   unsigned int face : 4; \/\/ 4 bits; 0-15        $/;"	m	struct:bitCard	file:
+factorial	examples/ch05/fig05_18.c	/^unsigned long long int factorial( unsigned int number )$/;"	f
+fibonacci	examples/appE/ThreadedFibonacci.c	/^unsigned long long int fibonacci( unsigned int n )      $/;"	f
+fibonacci	examples/appE/fibonacci.c	/^unsigned long long int fibonacci( unsigned int n )      $/;"	f
+fibonacci	examples/ch05/fig05_19.c	/^unsigned long long int fibonacci( unsigned int n )      $/;"	f
+fillDeck	examples/ch10/fig10_03.c	/^void fillDeck( Card * const wDeck, const char * wFace[], $/;"	f
+fillDeck	examples/ch10/fig10_16.c	/^void fillDeck( Card * const wDeck )$/;"	f
+firstName	examples/ch11/fig11_10.c	/^   char firstName[ 10 ]; \/\/ account first name   $/;"	m	struct:clientData	file:
+firstName	examples/ch11/fig11_11.c	/^   char firstName[ 10 ]; \/\/ account first name   $/;"	m	struct:clientData	file:
+firstName	examples/ch11/fig11_14.c	/^   char firstName[ 10 ]; \/\/ account first name   $/;"	m	struct:clientData	file:
+firstName	examples/ch11/fig11_15.c	/^   char firstName[ 10 ]; \/\/ account first name   $/;"	m	struct:clientData	file:
+function1	examples/ch07/fig07_28.c	/^void function1( int a )$/;"	f
+function2	examples/ch07/fig07_28.c	/^void function2( int b )$/;"	f
+function3	examples/ch07/fig07_28.c	/^void function3( int c )$/;"	f
+getSize	examples/ch07/fig07_16.c	/^size_t getSize( float *ptr )$/;"	f
+guessGame	examples/ch01/GuessNumber/GNU_Linux/GuessNumber.c	/^void guessGame(void)$/;"	f
+inOrder	examples/ch12/fig12_19.c	/^void inOrder( TreeNodePtr treePtr )$/;"	f
+insert	examples/ch12/fig12_03.c	/^void insert( ListNodePtr *sPtr, char value )$/;"	f
+insertNode	examples/ch12/fig12_19.c	/^void insertNode( TreeNodePtr *treePtr, int value )$/;"	f
+insertionSort	examples/appD/figD_02.c	/^void insertionSort( int array[], int length )$/;"	f
+instructions	examples/ch12/fig12_03.c	/^void instructions( void )$/;"	f
+instructions	examples/ch12/fig12_08.c	/^void instructions( void )$/;"	f
+instructions	examples/ch12/fig12_13.c	/^void instructions( void )$/;"	f
+isCorrect	examples/ch01/GuessNumber/GNU_Linux/GuessNumber.c	/^int isCorrect( int g, int a )$/;"	f
+isEmpty	examples/ch12/fig12_03.c	/^int isEmpty( ListNodePtr sPtr )$/;"	f
+isEmpty	examples/ch12/fig12_08.c	/^int isEmpty( StackNodePtr topPtr )$/;"	f
+isEmpty	examples/ch12/fig12_13.c	/^int isEmpty( QueueNodePtr headPtr )$/;"	f
+isEven	examples/appE/figE_07.c	/^bool isEven( int number )$/;"	f
+lastName	examples/ch11/fig11_10.c	/^   char lastName[ 15 ]; \/\/ account last name    $/;"	m	struct:clientData	file:
+lastName	examples/ch11/fig11_11.c	/^   char lastName[ 15 ]; \/\/ account last name    $/;"	m	struct:clientData	file:
+lastName	examples/ch11/fig11_14.c	/^   char lastName[ 15 ]; \/\/ account last name     $/;"	m	struct:clientData	file:
+lastName	examples/ch11/fig11_15.c	/^   char lastName[ 15 ]; \/\/ account last name     $/;"	m	struct:clientData	file:
+leftPtr	examples/ch12/fig12_19.c	/^   struct treeNode *leftPtr; \/\/ pointer to left subtree $/;"	m	struct:treeNode	typeref:struct:treeNode::treeNode	file:
+linearSearch	examples/ch06/fig06_18.c	/^size_t linearSearch( const int array[], int key, size_t size )      $/;"	f
+listNode	examples/ch12/fig12_03.c	/^struct listNode {                                      $/;"	s	file:
+main	Functions.c	/^int main()$/;"	f
+main	average.c	/^int main( void ){$/;"	f
+main	averagef.c	/^int main( void ){$/;"	f
+main	exam.c	/^int main ( void ){$/;"	f
+main	examples/appD/figD_01.c	/^int main( void )$/;"	f
+main	examples/appD/figD_02.c	/^int main( void )$/;"	f
+main	examples/appD/figD_03.c	/^int main( void )$/;"	f
+main	examples/appE/ThreadedFibonacci.c	/^int main( void ) $/;"	f
+main	examples/appE/fibonacci.c	/^int main( void )$/;"	f
+main	examples/appE/figE_02.c	/^int main( void )$/;"	f
+main	examples/appE/figE_03.c	/^int main( void )$/;"	f
+main	examples/appE/figE_04.c	/^int main( void )$/;"	f
+main	examples/appE/figE_05.c	/^int main( void )$/;"	f
+main	examples/appE/figE_06.c	/^int main( void )$/;"	f
+main	examples/appE/figE_07.c	/^int main( void )$/;"	f
+main	examples/appE/figE_08.c	/^int main( void )$/;"	f
+main	examples/appE/figE_10.c	/^int main()$/;"	f
+main	examples/appE/figE_11.c	/^int main( void )$/;"	f
+main	examples/appF/figF_01.c	/^int main( void )$/;"	f
+main	examples/appG/figG_01.c	/^int main( void )$/;"	f
+main	examples/ch01/GuessNumber/GNU_Linux/GuessNumber.c	/^int main(void)$/;"	f
+main	examples/ch02/fig02_01.c	/^int main( void )$/;"	f
+main	examples/ch02/fig02_03.c	/^int main( void )$/;"	f
+main	examples/ch02/fig02_04.c	/^int main( void )$/;"	f
+main	examples/ch02/fig02_05.c	/^int main( void )$/;"	f
+main	examples/ch02/fig02_10.c	/^int main( void )$/;"	f
+main	examples/ch03/fig03_05.c	/^int main( void )$/;"	f
+main	examples/ch03/fig03_06.c	/^int main( void )$/;"	f
+main	examples/ch03/fig03_07.c	/^int main( void )$/;"	f
+main	examples/ch03/fig03_10.c	/^int main( void )$/;"	f
+main	examples/ch04/fig04_01.c	/^int main( void )$/;"	f
+main	examples/ch04/fig04_02.c	/^int main( void )$/;"	f
+main	examples/ch04/fig04_05.c	/^int main( void )$/;"	f
+main	examples/ch04/fig04_06.c	/^int main( void )$/;"	f
+main	examples/ch04/fig04_07.c	/^int main( void )$/;"	f
+main	examples/ch04/fig04_09.c	/^int main( void )$/;"	f
+main	examples/ch04/fig04_11.c	/^int main( void )$/;"	f
+main	examples/ch04/fig04_12.c	/^int main( void )$/;"	f
+main	examples/ch05/fig05_03.c	/^int main( void )$/;"	f
+main	examples/ch05/fig05_04.c	/^int main( void )$/;"	f
+main	examples/ch05/fig05_06.c	/^int main()$/;"	f
+main	examples/ch05/fig05_11.c	/^int main( void )$/;"	f
+main	examples/ch05/fig05_12.c	/^int main( void )$/;"	f
+main	examples/ch05/fig05_13.c	/^int main( void )$/;"	f
+main	examples/ch05/fig05_14.c	/^int main( void )$/;"	f
+main	examples/ch05/fig05_16.c	/^int main( void )$/;"	f
+main	examples/ch05/fig05_18.c	/^int main( void )$/;"	f
+main	examples/ch05/fig05_19.c	/^int main( void )$/;"	f
+main	examples/ch06/fig06_03.c	/^int main( void )$/;"	f
+main	examples/ch06/fig06_04.c	/^int main( void )$/;"	f
+main	examples/ch06/fig06_05.c	/^int main( void )$/;"	f
+main	examples/ch06/fig06_06.c	/^int main( void )$/;"	f
+main	examples/ch06/fig06_07.c	/^int main( void )$/;"	f
+main	examples/ch06/fig06_08.c	/^int main( void )$/;"	f
+main	examples/ch06/fig06_09.c	/^int main( void )$/;"	f
+main	examples/ch06/fig06_10.c	/^int main( void )$/;"	f
+main	examples/ch06/fig06_11.c	/^int main( void )$/;"	f
+main	examples/ch06/fig06_12.c	/^int main( void )$/;"	f
+main	examples/ch06/fig06_13.c	/^int main( void )$/;"	f
+main	examples/ch06/fig06_14.c	/^int main( void )$/;"	f
+main	examples/ch06/fig06_15.c	/^int main( void ) $/;"	f
+main	examples/ch06/fig06_16.c	/^int main( void )$/;"	f
+main	examples/ch06/fig06_18.c	/^int main( void )$/;"	f
+main	examples/ch06/fig06_19.c	/^int main( void )$/;"	f
+main	examples/ch06/fig06_21.c	/^int main( void )$/;"	f
+main	examples/ch06/fig06_22.c	/^int main( void )$/;"	f
+main	examples/ch06/fig06_23.c	/^int main( void )$/;"	f
+main	examples/ch07/fig07_04.c	/^int main( void )$/;"	f
+main	examples/ch07/fig07_06.c	/^int main( void )$/;"	f
+main	examples/ch07/fig07_07.c	/^int main( void )$/;"	f
+main	examples/ch07/fig07_10.c	/^int main( void )$/;"	f
+main	examples/ch07/fig07_11.c	/^int main( void )$/;"	f
+main	examples/ch07/fig07_12.c	/^int main( void )$/;"	f
+main	examples/ch07/fig07_13.c	/^int main( void )$/;"	f
+main	examples/ch07/fig07_14.c	/^int main( void )$/;"	f
+main	examples/ch07/fig07_15.c	/^int main( void )$/;"	f
+main	examples/ch07/fig07_16.c	/^int main( void )$/;"	f
+main	examples/ch07/fig07_17.c	/^int main( void )$/;"	f
+main	examples/ch07/fig07_20.c	/^int main( void )$/;"	f
+main	examples/ch07/fig07_21.c	/^int main( void )$/;"	f
+main	examples/ch07/fig07_24.c	/^int main( void )$/;"	f
+main	examples/ch07/fig07_26.c	/^int main( void )$/;"	f
+main	examples/ch07/fig07_28.c	/^int main( void )$/;"	f
+main	examples/ch08/fig08_02.c	/^int main( void )$/;"	f
+main	examples/ch08/fig08_03.c	/^int main( void )$/;"	f
+main	examples/ch08/fig08_04.c	/^int main( void )$/;"	f
+main	examples/ch08/fig08_06.c	/^int main( void )$/;"	f
+main	examples/ch08/fig08_07.c	/^int main( void )$/;"	f
+main	examples/ch08/fig08_08.c	/^int main( void )$/;"	f
+main	examples/ch08/fig08_10.c	/^int main( void )$/;"	f
+main	examples/ch08/fig08_11.c	/^int main( void )$/;"	f
+main	examples/ch08/fig08_12.c	/^int main( void )$/;"	f
+main	examples/ch08/fig08_13.c	/^int main( void )$/;"	f
+main	examples/ch08/fig08_15.c	/^int main( void )$/;"	f
+main	examples/ch08/fig08_16.c	/^int main( void )$/;"	f
+main	examples/ch08/fig08_18.c	/^int main( void )$/;"	f
+main	examples/ch08/fig08_20.c	/^int main( void )$/;"	f
+main	examples/ch08/fig08_21.c	/^int main( void )$/;"	f
+main	examples/ch08/fig08_22.c	/^int main( void )$/;"	f
+main	examples/ch08/fig08_23.c	/^int main( void )$/;"	f
+main	examples/ch08/fig08_24.c	/^int main( void )$/;"	f
+main	examples/ch08/fig08_25.c	/^int main( void )$/;"	f
+main	examples/ch08/fig08_26.c	/^int main( void )$/;"	f
+main	examples/ch08/fig08_28.c	/^int main( void )$/;"	f
+main	examples/ch08/fig08_29.c	/^int main( void )$/;"	f
+main	examples/ch08/fig08_30.c	/^int main( void )$/;"	f
+main	examples/ch08/fig08_31.c	/^int main( void )$/;"	f
+main	examples/ch08/fig08_32.c	/^int main( void )$/;"	f
+main	examples/ch08/fig08_34.c	/^int main( void )$/;"	f
+main	examples/ch08/fig08_35.c	/^int main( void )$/;"	f
+main	examples/ch09/fig09_02.c	/^int main( void )$/;"	f
+main	examples/ch09/fig09_04.c	/^int main( void )$/;"	f
+main	examples/ch09/fig09_05.c	/^int main( void )$/;"	f
+main	examples/ch09/fig09_07.c	/^int main( void )$/;"	f
+main	examples/ch09/fig09_08.c	/^int main( void )$/;"	f
+main	examples/ch09/fig09_09.c	/^int main( void )$/;"	f
+main	examples/ch09/fig09_11.c	/^int main( void )$/;"	f
+main	examples/ch09/fig09_12.c	/^int main( void )$/;"	f
+main	examples/ch09/fig09_13.c	/^int main( void )$/;"	f
+main	examples/ch09/fig09_14.c	/^int main( void )$/;"	f
+main	examples/ch09/fig09_15.c	/^int main( void )$/;"	f
+main	examples/ch09/fig09_18.c	/^int main( void )$/;"	f
+main	examples/ch09/fig09_19.c	/^int main( void )$/;"	f
+main	examples/ch09/fig09_20.c	/^int main( void )$/;"	f
+main	examples/ch09/fig09_21.c	/^int main( void )$/;"	f
+main	examples/ch09/fig09_22.c	/^int main( void )$/;"	f
+main	examples/ch09/fig09_23.c	/^int main( void )$/;"	f
+main	examples/ch09/fig09_24.c	/^int main( void )$/;"	f
+main	examples/ch10/fig10_02.c	/^int main( void )$/;"	f
+main	examples/ch10/fig10_03.c	/^int main( void )$/;"	f
+main	examples/ch10/fig10_05.c	/^int main( void )$/;"	f
+main	examples/ch10/fig10_07.c	/^int main( void )$/;"	f
+main	examples/ch10/fig10_09.c	/^int main( void )$/;"	f
+main	examples/ch10/fig10_13.c	/^int main( void )$/;"	f
+main	examples/ch10/fig10_16.c	/^int main( void )$/;"	f
+main	examples/ch10/fig10_18.c	/^int main( void )$/;"	f
+main	examples/ch11/fig11_02.c	/^int main( void )$/;"	f
+main	examples/ch11/fig11_06.c	/^int main( void )$/;"	f
+main	examples/ch11/fig11_07.c	/^int main( void )$/;"	f
+main	examples/ch11/fig11_10.c	/^int main( void )$/;"	f
+main	examples/ch11/fig11_11.c	/^int main( void ) $/;"	f
+main	examples/ch11/fig11_14.c	/^int main( void )$/;"	f
+main	examples/ch11/fig11_15.c	/^int main( void )$/;"	f
+main	examples/ch12/fig12_03.c	/^int main( void )$/;"	f
+main	examples/ch12/fig12_08.c	/^int main( void )$/;"	f
+main	examples/ch12/fig12_13.c	/^int main( void )$/;"	f
+main	examples/ch12/fig12_19.c	/^int main( void )$/;"	f
+main	examples/ch14/fig14_02.c	/^int main( void )$/;"	f
+main	examples/ch14/fig14_03.c	/^int main( int argc, char *argv[] )$/;"	f
+main	examples/ch14/fig14_04.c	/^int main( void )$/;"	f
+main	examples/ch14/fig14_06.c	/^int main( void )$/;"	f
+main	examples/ch14/fig14_07.c	/^int main( void )$/;"	f
+main	grades.c	/^int main( void ){$/;"	f
+main	limits.c	/^int main( void ){$/;"	f
+main	puts.c	/^int main( void ){$/;"	f
+main	sprintf.c	/^int main(){$/;"	f
+main	strings.c	/^int main(){$/;"	f
+main	strlib.c	/^int main(){$/;"	f
+main	test.c	/^int main()$/;"	f
+maximum	examples/appF/figF_01.c	/^int maximum( int x, int y, int z )$/;"	f
+maximum	examples/appG/figG_01.c	/^int maximum( int x, int y, int z )$/;"	f
+maximum	examples/ch05/fig05_04.c	/^int maximum( int x, int y, int z )                                       $/;"	f
+maximum	examples/ch06/fig06_22.c	/^int maximum( int grades[][ EXAMS ], size_t pupils, size_t tests )$/;"	f
+mean	examples/ch06/fig06_16.c	/^void mean( const unsigned int answer[] )$/;"	f
+median	examples/ch06/fig06_16.c	/^void median( unsigned int answer[] )$/;"	f
+merge	examples/appD/figD_03.c	/^void merge( int array[], int left, int middle1, int middle2, int right )$/;"	f
+mergeSort	examples/appD/figD_03.c	/^void mergeSort( int array[], int length )$/;"	f
+minimum	examples/ch06/fig06_22.c	/^int minimum( int grades[][ EXAMS ], size_t pupils, size_t tests )$/;"	f
+mode	examples/ch06/fig06_16.c	/^void mode( unsigned int freq[], const unsigned int answer[] )$/;"	f
+modifyArray	examples/ch06/fig06_13.c	/^void modifyArray( int b[], size_t size )                               $/;"	f
+modifyElement	examples/ch06/fig06_13.c	/^void modifyElement( int e )                                       $/;"	f
+months	examples/ch10/fig10_18.c	/^enum months {                                                    $/;"	g	file:
+newRecord	examples/ch11/fig11_15.c	/^void newRecord( FILE *fPtr )$/;"	f
+nextPtr	examples/ch12/fig12_03.c	/^   struct listNode *nextPtr; \/\/ pointer to next node$/;"	m	struct:listNode	typeref:struct:listNode::listNode	file:
+nextPtr	examples/ch12/fig12_08.c	/^   struct stackNode *nextPtr; \/\/ stackNode pointer$/;"	m	struct:stackNode	typeref:struct:stackNode::stackNode	file:
+nextPtr	examples/ch12/fig12_13.c	/^   struct queueNode *nextPtr; \/\/ queueNode pointer$/;"	m	struct:queueNode	typeref:struct:queueNode::queueNode	file:
+number	examples/appE/ThreadedFibonacci.c	/^   unsigned int number; \/\/ fibonacci number to calculate$/;"	m	struct:ThreadData	file:
+number	examples/ch10/fig10_05.c	/^union number {               $/;"	u	file:
+pop	examples/ch12/fig12_08.c	/^int pop( StackNodePtr *topPtr )$/;"	f
+postOrder	examples/ch12/fig12_19.c	/^void postOrder( TreeNodePtr treePtr )$/;"	f
+preOrder	examples/ch12/fig12_19.c	/^void preOrder( TreeNodePtr treePtr )$/;"	f
+print	examples/ch14/fig14_04.c	/^void print( void )                                    $/;"	f
+print1DArray	examples/appE/figE_11.c	/^void print1DArray( int size, int array[ size ] )$/;"	f
+print1DArray	examples/ch06/fig06_23.c	/^void print1DArray( int size, int array[ size ] )$/;"	f
+print2DArray	examples/appE/figE_11.c	/^void print2DArray( int row, int col, int arr[ row ][ col ] )$/;"	f
+print2DArray	examples/ch06/fig06_23.c	/^void print2DArray( int row, int col, int arr[ row ][ col ] )$/;"	f
+printArray	examples/ch06/fig06_16.c	/^void printArray( const unsigned int a[] )$/;"	f
+printArray	examples/ch06/fig06_21.c	/^void printArray( int a[][ 3 ] )                         $/;"	f
+printArray	examples/ch06/fig06_22.c	/^void printArray( int grades[][ EXAMS ], size_t pupils, size_t tests )$/;"	f
+printCharacters	examples/ch07/fig07_11.c	/^void printCharacters( const char *sPtr )$/;"	f
+printHeader	examples/ch06/fig06_19.c	/^void printHeader( void )$/;"	f
+printList	examples/ch12/fig12_03.c	/^void printList( ListNodePtr currentPtr )$/;"	f
+printPass	examples/appD/figD_01.c	/^void printPass( int array[], int length, int pass, int index )$/;"	f
+printPass	examples/appD/figD_02.c	/^void printPass( int array[], int length, int pass, int index )$/;"	f
+printQueue	examples/ch12/fig12_13.c	/^void printQueue( QueueNodePtr currentPtr )$/;"	f
+printRow	examples/ch06/fig06_19.c	/^void printRow( const int b[], size_t low, size_t mid, size_t high )$/;"	f
+printStack	examples/ch12/fig12_08.c	/^void printStack( StackNodePtr currentPtr )$/;"	f
+push	examples/ch12/fig12_08.c	/^void push( StackNodePtr *topPtr, int info )$/;"	f
+queueNode	examples/ch12/fig12_13.c	/^struct queueNode {                                   $/;"	s	file:
+returnImplicitInt	examples/appE/figE_08.c	/^returnImplicitInt()$/;"	f
+reverse	examples/ch08/fig08_10.c	/^void reverse( const char * const sPtr )$/;"	f
+rightPtr	examples/ch12/fig12_19.c	/^   struct treeNode *rightPtr; \/\/ pointer to right subtree$/;"	m	struct:treeNode	typeref:struct:treeNode::treeNode	file:
+rollDice	examples/ch05/fig05_14.c	/^int rollDice( void )$/;"	f
+selectionSort	examples/appD/figD_01.c	/^void selectionSort( int array[], int length )$/;"	f
+shuffle	examples/ch07/fig07_24.c	/^void shuffle( unsigned int wDeck[][ FACES ] )$/;"	f
+shuffle	examples/ch10/fig10_03.c	/^void shuffle( Card * const wDeck )$/;"	f
+signalHandler	examples/ch14/fig14_06.c	/^void signalHandler( int signalValue )$/;"	f
+sortSubArray	examples/appD/figD_03.c	/^void sortSubArray( int array[], int low, int high )$/;"	f
+square	examples/ch05/fig05_03.c	/^int square( int y ) \/\/ y is a copy of the argument to the function$/;"	f
+square	examples/ch05/fig05_06.c	/^int square( int x ) \/\/ x is a local variable$/;"	f
+stackNode	examples/ch12/fig12_08.c	/^struct stackNode {                                   $/;"	s	file:
+startFibonacci	examples/appE/ThreadedFibonacci.c	/^int startFibonacci( void *ptr ) $/;"	f
+startTime	examples/appE/ThreadedFibonacci.c	/^   time_t startTime; \/\/ time thread starts processing$/;"	m	struct:ThreadData	file:
+staticArrayInit	examples/ch06/fig06_11.c	/^void staticArrayInit( void )$/;"	f
+suit	examples/ch10/fig10_02.c	/^   char *suit; \/\/ define pointer suit   $/;"	m	struct:card	file:
+suit	examples/ch10/fig10_03.c	/^   const char *suit; \/\/ define pointer suit   $/;"	m	struct:card	file:
+suit	examples/ch10/fig10_16.c	/^   unsigned int suit : 2; \/\/ 2 bits; 0-3         $/;"	m	struct:bitCard	file:
+swap	examples/appD/figD_01.c	/^void swap( int array[], int first, int second )$/;"	f
+swap	examples/ch07/fig07_15.c	/^void swap( int *element1Ptr, int *element2Ptr )            $/;"	f
+swap	examples/ch07/fig07_26.c	/^void swap( int *element1Ptr, int *element2Ptr )$/;"	f
+textFile	examples/ch11/fig11_15.c	/^void textFile( FILE *readPtr )$/;"	f
+treeNode	examples/ch12/fig12_19.c	/^struct treeNode {                                           $/;"	s	file:
+tryToModifyArray	examples/ch06/fig06_14.c	/^void tryToModifyArray( const int b[] )                            $/;"	f
+twoInt	examples/appE/figE_06.c	/^struct twoInt \/\/ declare a struct of two integers$/;"	s	file:
+updateRecord	examples/ch11/fig11_15.c	/^void updateRecord( FILE *fPtr )$/;"	f
+useGlobal	examples/ch05/fig05_16.c	/^void useGlobal( void )$/;"	f
+useLocal	examples/ch05/fig05_16.c	/^void useLocal( void )$/;"	f
+useStaticLocal	examples/ch05/fig05_16.c	/^void useStaticLocal( void )$/;"	f
+x	examples/appE/figE_06.c	/^   int x;$/;"	m	struct:twoInt	file:
+x	examples/ch05/fig05_16.c	/^int x = 1; \/\/ global variable$/;"	v
+x	examples/ch10/fig10_05.c	/^   int x;                    $/;"	m	union:number	file:
+y	examples/appE/figE_06.c	/^   int y;$/;"	m	struct:twoInt	file:
+y	examples/ch10/fig10_05.c	/^   double y;                 $/;"	m	union:number	file:
